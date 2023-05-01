@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Detailed implementation can be found at : https://medium.com/@bishwasjha/building-a-decentralised-postcard-sharing-dapp-on-ethereum-a-step-by-step-guide-part-1-416904f3cfc3
 
 ## Available Scripts
 
